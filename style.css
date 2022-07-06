@@ -240,7 +240,7 @@ ul{
   font-weight: 300;
   font-size: 14px;
 }
-@media screen and (max-width:725px) {
+@media screen and (max-width:375px) {
 
   .dropdown, .top{
     display: none;
